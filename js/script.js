@@ -6,5 +6,8 @@ function randomQuote() {
         let url = 'https://example.com';
 
 
+      
     });
+
+
 }
